@@ -4,7 +4,7 @@ import FormUsers from './components/FormUsers.vue';
 </script>
 
 <template>
-  
+
 </template>
 
 <style scoped></style>
